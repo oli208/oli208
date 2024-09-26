@@ -1,13 +1,36 @@
 ## Hi there 👋
 
 
+## 🚀 Skills and Tools
+- Programming Languages: R, Python, PHP
+- Web Development: HTML, CSS, JavaScript, SQL
+- Tools: Git
+- Electronics: Arduino
+<!--- Currently learning: -->
+
+<!--- ## 💻 Projects -->
+
+
+
+## 📈 GitHub Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=oli208" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=oli208&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oli208&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oli208&layout=compact&theme=radical&langs_count=8&card_width=320" />
 </a>
+
+
+# 📊 GitHub Activity
+
+## 🔥 Current Streak Stats
+
+![Mr-Comand's GitHub Streak](https://streak-stats.demolab.com/?user=oli208&theme=radical)
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=oli208&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
