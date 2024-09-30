@@ -26,7 +26,7 @@
 
 ## 🔥 Current Streak Stats
 
-![Mr-Comand's GitHub Streak](https://streak-stats.demolab.com/?user=oli208&theme=radical)
+![Oli's GitHub Streak](https://streak-stats.demolab.com/?user=oli208&theme=radical)
 
 ## 🏆 GitHub Trophies
 
